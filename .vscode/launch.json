@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ASPENDYS",
+            "type": "python",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "python": "${command:python.interpreterPath}",
+            "program": "run.py",
+            "gevent": true,
+            "cwd": "${workspaceFolder}",
+            "args": []
+            
+        }
+    ]
+}
