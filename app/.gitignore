@@ -1,0 +1,13 @@
+__pycache__/
+api/__pycache__/
+database/__pycache__/
+portfolio/__pycache__/
+streamer/__pycache__/
+utilities/__pycache__/
+.vscode/
+.vscode/settings.json
+app/sentiment/finetuned_BERT_model_file
+app/signals/ML_signals/ARIMA_models
+app/signals/ML_signals/FB_Prophet_models
+app/signals/ML_signals/RF_models
+app/signals/ML_signals/signal_models
